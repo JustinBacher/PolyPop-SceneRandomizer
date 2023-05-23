@@ -1,0 +1,4 @@
+<stringtable>
+  <ID name="Self_ToolTip">A source to display in the source cycler.</ID>
+  <ID name="Duration_ToolTip">How long to keep this source visible.</ID>
+</stringtable>
